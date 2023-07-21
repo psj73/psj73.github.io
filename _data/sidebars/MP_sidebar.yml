@@ -259,7 +259,7 @@ entries:
     folderitems:
 
     - title: 샘플테스트
-      url: /mypage_sample1.md
+      url: /mypage_sample1.html
       output: web, pdf
 
   - title: Tag archives
