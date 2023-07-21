@@ -23,7 +23,11 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: 내페이지
+      url: /mypage_landing_page.html
+      output: web, pdf
+
+     - title: Get started
       url: /index.html
       output: web, pdf
       type: homepage
