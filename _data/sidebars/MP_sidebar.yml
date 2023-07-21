@@ -253,6 +253,15 @@ entries:
       url: /mydoc_troubleshooting.html
       output: web, pdf
 
+  - title: 내페이지
+    output: web, pdf
+
+    folderitems:
+
+    - title: 샘플테스트
+      url: /mypage_sample1.md
+      output: web, pdf
+
   - title: Tag archives
     output: web
     folderitems:
