@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
+  product: 내페이지
+  #version: 6.0
   folders:
 
   - title:
@@ -23,11 +23,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: 내페이지
-      url: /mypage_landing_page.html
-      output: web, pdf
-
-     - title: Get started
+    - title: Get started
       url: /index.html
       output: web, pdf
       type: homepage
